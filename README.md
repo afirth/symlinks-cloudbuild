@@ -1,3 +1,8 @@
+## similar reports
+[Symlinks to directories ignored](https://issuetracker.google.com/issues/70571662)
+[App engine ignores symlinks to directories](https://stackoverflow.com/questions/47776608/app-engine-ignores-symlinks-to-directories)
+[GCP Container Builder unable to evaluate symlinks](https://stackoverflow.com/questions/42832536/gcp-container-builder-unable-to-evaluate-symlinks)
+
 ## gcloud builds submit failure
 
 ```

@@ -1,0 +1,10 @@
+steps:
+  - name: alpine
+    entrypoint: cat
+    args:
+      - stuff/foo
+
+  - name: alpine
+    entrypoint: cat
+    args:
+      - child/stuff/foo

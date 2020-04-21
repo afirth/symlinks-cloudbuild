@@ -2,6 +2,10 @@
 
 Locally submitted cloudbuild, and presumably other gcloud utilities which create tarballs, do not correctly include relative symlinks to directories.
 
+## reported at
+
+https://issuetracker.google.com/issues/154532065
+
 ## similar reports
 
 [Symlinks to directories ignored](https://issuetracker.google.com/issues/70571662)

@@ -8,9 +8,9 @@ https://issuetracker.google.com/issues/154532065
 
 ## similar reports
 
-[Symlinks to directories ignored](https://issuetracker.google.com/issues/70571662)
-[App engine ignores symlinks to directories](https://stackoverflow.com/questions/47776608/app-engine-ignores-symlinks-to-directories)
-[GCP Container Builder unable to evaluate symlinks](https://stackoverflow.com/questions/42832536/gcp-container-builder-unable-to-evaluate-symlinks)
+1) [Symlinks to directories ignored](https://issuetracker.google.com/issues/70571662)
+2) [App engine ignores symlinks to directories](https://stackoverflow.com/questions/47776608/app-engine-ignores-symlinks-to-directories)
+3) [GCP Container Builder unable to evaluate symlinks](https://stackoverflow.com/questions/42832536/gcp-container-builder-unable-to-evaluate-symlinks)
 
 ## hypothesis
 
